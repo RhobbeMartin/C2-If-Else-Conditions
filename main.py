@@ -70,3 +70,5 @@ if(x == 0):
     if(y == 0):
 
       print("You are on the origin")
+
+# and, or
